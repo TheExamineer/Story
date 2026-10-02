@@ -1,6 +1,10 @@
-# Wife
+---
+id: character-wife
+type: character
+age: "22-28 (18+)"
+---
 
-**Age:** 22-28 (18+)
+# Wife
 
 **Nature:**
 Bahut zyada horny rehti hai almost har time.

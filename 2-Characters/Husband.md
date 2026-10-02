@@ -1,6 +1,10 @@
-# Husband
+---
+id: character-husband
+type: character
+age: "25-35 (18+)"
+---
 
-**Age:** 25-35 (18+)
+# Husband
 
 **Nature:**
 Wife ke boobs ka diwana. Roz chusta hai – hall mein, bedroom mein, kabhi bhi.

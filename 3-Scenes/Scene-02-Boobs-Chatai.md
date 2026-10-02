@@ -1,3 +1,15 @@
+---
+id: scene-02
+type: scene
+characters:
+  - "[[Bull]]"
+  - "[[Wife]]"
+  - "[[Husband]]"
+places:
+  - "[[Hall]]"
+  - "[[Bedroom]]"
+---
+
 # Scene 02 – Boobs Chatai (Bull & Wife)
 
 **Setting:** Hall / Bedroom, Husband pehle se chus chuka hai aur nikal gaya hai.

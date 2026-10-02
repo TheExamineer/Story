@@ -1,6 +1,10 @@
-# Bull
+---
+id: character-bull
+type: character
+age: "18+"
+---
 
-**Age:** 18+
+# Bull
 
 **Nature:**
 Woh aadmi jo ek din dopahar mein hall mein Husband ko Wife ke boobs chuste hue dekh leta hai.

@@ -1,3 +1,14 @@
+---
+id: scene-01
+type: scene
+characters:
+  - "[[Husband]]"
+  - "[[Wife]]"
+  - "[[Bull]]"
+places:
+  - "[[Hall]]"
+---
+
 # Scene 01 – Hall Mein Dekha
 
 Dopahar ka time tha. Hall mein Husband Wife ke boobs chus raha tha.
