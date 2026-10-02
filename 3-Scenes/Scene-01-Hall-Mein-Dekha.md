@@ -11,6 +11,24 @@ places:
 
 # Scene 01 – Hall Mein Dekha
 
+| Variable | Value |
+|---|---|
+| POV character | Bull (implied) |
+| Location and time | Hall, afternoon |
+| Characters present | Husband, Wife, Bull |
+| Scene purpose | Bull observes the couple and forms a judgment about their relationship. |
+| Emotional movement | Bull: observation → judgment |
+| Story movement | Bull sees the couple's interaction and concludes that their relationship lacks the intimacy he expects. |
+| Continuity notes | Bull has not previously seen Husband and Wife have sex. |
+
+### Scene outline
+- **Opening state:** Husband and Wife are together in the hall.
+- **Goal:** Bull observes; no explicit goal is stated.
+- **Obstacle:** None stated.
+- **Turning point:** Bull recognizes a pattern in Husband and Wife's intimacy.
+- **Outcome:** Bull forms a judgment about what Wife needs.
+- **Exit hook:** Bull's thought suggests a possible direction for his involvement.
+
 Dopahar ka time tha. Hall mein Husband Wife ke boobs chus raha tha.
 
 Wife sofa pe leti hui thi, aankhein band, maze le rahi thi. Nipples tight the, body halki-halki kaamp rahi thi.

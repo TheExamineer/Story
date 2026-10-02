@@ -1,6 +1,34 @@
+---
+id: scene-03
+type: scene
+characters:
+  - "[[Bull]]"
+  - "[[Wife]]"
+  - "[[Husband]]"
+places:
+  - "[[Hall]]"
+  - "[[Bedroom]]"
+---
+
 # Scene 03 – Phone Call Humiliation
 
-**Setting:** Scene 02 ke turant baad. Hall/Bedroom. Bull abhi bhi Wife ke soft warm boobs pe jeebh ghumaye hue hai. Wife ki saansen tez hain, blouse half open, nipples bahar ko phadne ko tadap rahe hain. Tabhi Husband ka phone ring hota hai.
+| Variable | Value |
+|---|---|
+| POV character | Not specified |
+| Location and time | Hall / Bedroom; immediately after Scene 02 |
+| Characters present | Bull and Wife; Husband joins by phone |
+| Scene purpose | Husband discovers Bull's presence, escalating the conflict between them. |
+| Emotional movement | Husband: irritation → shock and distress; Bull: confidence → taunting; Wife: guarded → openly supportive of Bull |
+| Story movement | The phone call exposes the situation to Husband and ends with the conflict unresolved. |
+| Continuity notes | Begins immediately after Scene 02; the call ends before the scene closes. |
+
+### Scene outline
+- **Opening state:** Bull and Wife are together when Husband calls.
+- **Goal:** Bull uses the call to provoke Husband; Wife answers the phone.
+- **Obstacle:** Husband questions Wife and challenges Bull.
+- **Turning point:** Wife joins Bull in the exchange.
+- **Outcome:** The call ends with Husband distressed and the conflict unresolved.
+- **Exit hook:** The confrontation leaves consequences for the relationship to address.
 
 ---
 

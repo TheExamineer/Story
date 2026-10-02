@@ -12,7 +12,23 @@ places:
 
 # Scene 02 – Boobs Chatai (Bull & Wife)
 
-**Setting:** Hall / Bedroom, Husband pehle se chus chuka hai aur nikal gaya hai.
+| Variable | Value |
+|---|---|
+| POV character | Not specified |
+| Location and time | Hall / Bedroom; after Husband leaves |
+| Characters present | Bull and Wife; Husband is mentioned and has left |
+| Scene purpose | Develops the interaction between Bull and Wife after Husband leaves. |
+| Emotional movement | Wife: shy and hesitant → more engaged; Bull: admiring → more assertive |
+| Story movement | Bull and Wife's interaction intensifies, setting up the phone call in the next scene. |
+| Continuity notes | Scene 03 begins immediately after this scene. |
+
+### Scene outline
+- **Opening state:** Husband has left after being with Wife; Bull and Wife are together.
+- **Goal:** Wife asks Bull to begin gently; no further explicit goal is stated.
+- **Obstacle:** None stated.
+- **Turning point:** The interaction grows more intense, and Wife asks Bull to moderate it.
+- **Outcome:** Bull and Wife continue their interaction.
+- **Exit hook:** Husband's phone call begins the next scene.
 
 ---
 
